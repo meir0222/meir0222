@@ -1,7 +1,8 @@
 # Hello, I'm Meir 👋
 🎮 Gaming | 💻 Coding | 💪 Gym
 
-Welcome to my GitHub profile! I'm a highly motivated and detail-oriented Cyber Security Analyst with a solid foundation in information security. I have a strong passion for gaming, coding, and fitness.
+Welcome to my GitHub profile!
+I'm a highly motivated and detail-oriented Cyber Security Analyst with a solid foundation in information security. I have a strong passion for gaming, coding, and fitness.
 
 # About Me
 
