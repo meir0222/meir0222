@@ -11,7 +11,10 @@ I'm driven by a desire to contribute to the field of cybersecurity and transitio
 # What I Do
 
 * 💡  Conduct in-depth security assessments to identify vulnerabilities and potential risks.
-* 🔐 Implement security controls and best practices to safeguard sensitive data and systems.
+* 🔐 Develop and implement cybersecurity strategies, policies, rules, and procedures to protect the organization's systems, networks, and data.
+* 🔬 Collect and analyze malware samples to understand their behavior, capabilities, and potential impact on systems and networks.
+* 🔍🔎 Identify and extract Indicators of Compromise (IOCs) from malware samples, such as file names, registry keys, network signatures, and behavior patterns.
+* 🔍💡 Leverage threat intelligence feeds, open-source intelligence, and information from security vendors to stay informed about the latest threats, Tactics, Techniques, and Procedures (TTPs), and indicators of compromise.
 * 🌐 Stay updated on the latest cybersecurity trends and technologies to enhance knowledge and skills.
 * 🤝 Collaborate with cross-functional teams to ensure the security of projects and applications.
 
