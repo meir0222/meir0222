@@ -1,4 +1,4 @@
-Welcome to my GitHub profile!
+Welcome to my GitHub profile!\n
 I'm a highly motivated and detail-oriented Cyber Security Analyst with a solid foundation in information security. I have a strong passion for gaming, coding, and fitness.
 
 ## About Me
