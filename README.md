@@ -1,5 +1,6 @@
 Welcome to My GitHub!                                                                                                                                                                                                                     
-I'm passionate about reverse engineering, exploit development, and vulnerability research. I enjoy breaking things down, understanding how they work, and finding creative ways to push their limits.
+I'm passionate about reverse engineering, exploit development, and vulnerability research.
+I enjoy breaking things down, understanding how they work, and finding creative ways to push their limits.
 
 ## About Me
 
@@ -7,18 +8,16 @@ I'm currently diving deep into vulnerability research, focusing on exploit devel
 
 ## What I Do
 
-* 💡  Conduct in-depth security assessments to identify vulnerabilities and potential risks.
-* 🔐 Develop and implement cybersecurity strategies, policies, rules, and procedures to protect the organization's systems, networks, and data.
-* 🔬 Collect and analyze malware samples to understand their behavior, capabilities, and potential impact on systems and networks.
-* 🔍 Identify and extract Indicators of Compromise (IOCs) from malware samples, such as file names, registry keys, network signatures, and behavior patterns.
-* 🔍 Leverage threat intelligence feeds, open-source intelligence, and information from security vendors to stay informed about the latest threats, Tactics, Techniques, and Procedures (TTPs), and indicators of compromise.
-* 🌐 Stay updated on the latest cybersecurity trends and technologies to enhance knowledge and skills.
+* Reverse engineering real world applications and analyzing binaries.
+* Developing exploits and exploring security vulnerabilities.
+* Studying malware behavior and evasion techniques.
 
 ## My Goals
 
-  * 🌟 Work as a Security Researcher to explore cutting-edge technologies and contribute to the advancement of cybersecurity.
-  * 📚 Expand my knowledge and skills in areas such as vulnerability research, and exploit development.
-  * 💻 Engage in bug bounty programs to enhance my practical skills in finding security vulnerabilities.
+* Keep sharpening my exploit development skills and push my understanding of vulnerabilities even further.
+* Master advanced exploit development techniques.
+* Contribute to open-source security projects and share research that helps others in the community.
+* Take on bug bounty challenges and security competitions to put my skills to the test in real scenarios.
 
 ## Let's Connect
 
