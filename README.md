@@ -25,5 +25,5 @@ Feel free to reach out to me on social media!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&size=10&link=https://www.linkedin.com/in/meir-hamou-164279218/)](https://www.linkedin.com/in/meir-hamou-164279218/)
 
-Feel free to explore my GitHub repositories and projects. 
+Explore my GitHub repositories and projects. 
 Don't hesitate to reach out if you have any questions or suggestions!
