@@ -21,7 +21,7 @@ I'm currently diving deep into vulnerability research, focusing on exploit devel
 
 ## Let's Connect
 
-I'm always interested in connecting with like-minded individuals and discussing cybersecurity, gaming, coding, or any other exciting topics. Feel free to reach out to me on social media or via email!
+Feel free to reach out to me on social media!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&size=10&link=https://www.linkedin.com/in/meir-hamou-164279218/)](https://www.linkedin.com/in/meir-hamou-164279218/)
 
