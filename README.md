@@ -1,9 +1,9 @@
-Welcome to my GitHub profile!                                                                                                                                                                                                                     
-I'm a highly motivated and detail-oriented Cyber Security Analyst with a solid foundation in information security. I have a strong passion for gaming, coding, and fitness.
+Welcome to My GitHub!                                                                                                                                                                                                                     
+I'm passionate about reverse engineering, exploit development, and vulnerability research. I enjoy breaking things down, understanding how they work, and finding creative ways to push their limits.
 
 ## About Me
 
-I'm driven by a desire to contribute to the field of cybersecurity and transition into a role as a Junior Security Researcher. With a keen eye for identifying security risks and a dedication to finding vulnerabilities, I aim to apply my technical expertise to develop robust security solutions.
+I'm currently diving deep into vulnerability research, focusing on exploit development and reversing. My goal is to push my skills further and contribute to the security community by discovering and understanding vulnerabilities.
 
 ## What I Do
 
