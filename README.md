@@ -18,12 +18,3 @@ I'm currently diving deep into vulnerability research, focusing on exploit devel
 * Master advanced exploit development techniques.
 * Contribute to open-source security projects and share research that helps others in the community.
 * Take on bug bounty challenges and security competitions to put my skills to the test in real scenarios.
-
-## Let's Connect
-
-Feel free to reach out to me on social media!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&size=10&link=https://www.linkedin.com/in/meir-hamou-164279218/)](https://www.linkedin.com/in/meir-hamou-164279218/)
-
-Explore my GitHub repositories and projects. 
-Don't hesitate to reach out if you have any questions or suggestions!
