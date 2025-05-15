@@ -4,7 +4,7 @@ I enjoy breaking things down, understanding how they work, and finding creative 
 
 ## About Me
 
-I'm currently diving deep into vulnerability research, focusing on exploit development and reversing. My goal is to push my skills further and contribute to the security community by discovering and understanding vulnerabilities.
+I'm currently diving deep into vulnerability research, focusing on exploit development and reversing. My goal is to push my skills further by discovering, implementing and understanding vulnerabilities.
 
 ## What I Do
 
